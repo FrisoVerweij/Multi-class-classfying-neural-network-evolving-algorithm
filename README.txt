@@ -2,7 +2,7 @@ Made by: Friso Verweij
 Date: 26-06-2020
 
 This program, along with the two datasets provided in this .zip file are part of my bachelor thesis.
-This thesis is the final assignment of my bachelor Kunstmatige Intelligentie (Artificial Intelligence).
+This thesis is the final assignment of my bachelor Kunstmatige Intelligentie (Artificial Intelligence) at Utrecht University.
 
 What is it?
 This program features an evolutionary algorithm made to generate and evolve multi-class neural networks.

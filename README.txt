@@ -27,3 +27,5 @@ ELITECOUNT		= Indicates number of best-performing individuals without mutation a
 THREADCOUNT		= Indicates number of threads used for evalutation and mutation process
 NEURONPENALTY		= Indicates penalty value for each neuron
 LINKPENALTY		= Indicates penalty value for each link
+
+For questions, please email me at frisoverweij'@'live.nl (without apostrophes).

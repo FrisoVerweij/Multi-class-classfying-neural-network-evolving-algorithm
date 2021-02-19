@@ -1,6 +1,7 @@
 ## Bachelor Thesis: Evolving Neural Networks: Using an evolutionary algorithm to create multi-class classification networks
 
 Made by: Friso Verweij
+
 Submission date: 26-06-2020
 
 This program, along with the two datasets provided in this .zip file are part of my bachelor thesis.
